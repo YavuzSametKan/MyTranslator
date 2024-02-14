@@ -11,7 +11,7 @@ https://codepen.io/Codestronomer/full/Jjzewda
 
 <img src="https://i.pngimg.me/thumb/f/720/m2i8G6K9Z5i8H7N4.jpg" alt="Resim Açıklaması" width="200">
 
-### User Interface
+### UI Design
 
 <img src="https://github.com/YavuzSametKan/MyTranslator/blob/main/UI/desktop_UI.png?raw=true" alt="Desktop UI">
 <img src="https://github.com/YavuzSametKan/MyTranslator/blob/main/UI/mobile_UI.png?raw=true" alt="Mobile UI" width=350>
