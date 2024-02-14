@@ -14,4 +14,4 @@ https://codepen.io/Codestronomer/full/Jjzewda
 ## UI Design
 
 <img src="https://github.com/YavuzSametKan/MyTranslator/blob/main/UI/desktop_UI.png?raw=true" alt="Desktop UI">
-<img src="https://github.com/YavuzSametKan/MyTranslator/blob/main/UI/mobile_UI.png?raw=true" alt="Mobile UI" width=350>
+<div align="center"><img src="https://github.com/YavuzSametKan/MyTranslator/blob/main/UI/mobile_UI.png?raw=true" alt="Mobile UI" width=350></div>
