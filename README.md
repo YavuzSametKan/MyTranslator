@@ -13,5 +13,5 @@ https://codepen.io/Codestronomer/full/Jjzewda
 
 ### User Interface
 
-<img src="https://github.com/YavuzSametKan/MyTranslator/blob/main/UI/desktop_UI.png?raw=true" alt="Resim Açıklaması" width="800">
-<img src="https://github.com/YavuzSametKan/MyTranslator/blob/main/UI/mobile_UI.png?raw=true" alt="Resim Açıklaması" width="350">
+<img src="https://github.com/YavuzSametKan/MyTranslator/blob/main/UI/desktop_UI.png?raw=true" alt="Resim Açıklaması">
+<img src="https://github.com/YavuzSametKan/MyTranslator/blob/main/UI/mobile_UI.png?raw=true" alt="Resim Açıklaması">
