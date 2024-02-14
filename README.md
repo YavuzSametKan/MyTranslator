@@ -13,5 +13,15 @@ https://codepen.io/Codestronomer/full/Jjzewda
 
 ## UI Design
 
-<img src="https://github.com/YavuzSametKan/MyTranslator/blob/main/UI/desktop_UI.png?raw=true" alt="Desktop UI">
-<div align="center"><img src="https://github.com/YavuzSametKan/MyTranslator/blob/main/UI/mobile_UI.png?raw=true" alt="Mobile UI" width=350></div>
+| Desktop UI | Mobil UI |
+|------------|------------|
+| ![Desktop UI](https://github.com/YavuzSametKan/MyTranslator/blob/main/UI/desktop_UI.png?raw=true) | ![Mobil UI](https://github.com/YavuzSametKan/MyTranslator/blob/main/UI/mobile_UI.png?raw=true) |
+
+## Contribution Guidelines
+
+- You can report bugs or provide suggestions by opening a GitHub issue.
+- You can contribute code by sending a pull request.
+
+## Contact
+
+For questions or feedback, you can contact me at yssk.personal@gmail.com.
